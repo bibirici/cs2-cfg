@@ -1,0 +1,17 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"+voicerecord"
+		"MOUSE4"		"<unbound>"
+		"6"		"<unbound>"
+		"z"		"slot6"
+		"7"		"<unbound>"
+		"x"		"slot7"
+		"8"		"<unbound>"
+		"c"		"slot8"
+		"0"		"<unbound>"
+		"4"		"slot10"
+		"m"		"radio1"
+	}
+}
